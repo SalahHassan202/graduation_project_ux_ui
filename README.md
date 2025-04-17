@@ -41,7 +41,7 @@ Power Fit Club is a complete fitness club app design that includes:
 
 ## 📣 Author
 
-Designed by: **صلاح حسن**  
+Designed by: **Salah Hassan**  
 Graduation Project – UX/UI Only
 
 ---
